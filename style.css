@@ -205,7 +205,10 @@ h3{
     display: flex;
     width: 100%;
     max-width: 581px;
-    margin: 190px auto;
+    margin-top: -150px;
+    /*margin: 300px !important;*/
+    /*margin: 190px auto;*/
+    /*margin-top: 200px;*/
 
     font-family: Montserrat;
     font-style: normal;
@@ -216,8 +219,9 @@ h3{
 .text p{
     width: 100%;
     max-width: 390px;
-    margin: auto auto;
-    margin-top: -240px;
+    margin-top: -50px;
+    /*margin: auto auto;*/
+    /*margin-top: -240px;*/
 
     font-family: Montserrat;
     font-style: normal;
@@ -236,12 +240,14 @@ h3{
     background-repeat: no-repeat;
     display: flex;
     align-items: center;
+    /*margin-top: 200px;*/
     /*background:linear-gradient(180deg, #4710BB -37.11%, rgba(71, 16, 187, 0.623922) -0.69%, rgba(71, 16, 187, 0) 62.89%);*/
   
   }
 .buttons {
     display: flex;
-    margin: 20px 0px 350px;
+    margin-top: 19px;
+    /*margin: 20px 0px 350px;*/
     justify-content: space-around;
   }
 .button1 {
@@ -615,7 +621,8 @@ input[type=submit]:hover {
     display: flex;
     width: 100%;
     max-width: 581px;
-    margin: 190px auto;
+    margin-top: -170px;
+    /*margin: 190px auto;*/
 
     font-family: Montserrat;
     font-style: normal;
@@ -626,8 +633,9 @@ input[type=submit]:hover {
 .text p{
     width: 100%;
     max-width: 390px;
-    margin: auto auto;
-    margin-top: -240px;
+    margin-top: -50px;
+    /*margin: auto auto;*/
+    /*margin-top: -240px;*/
 
     font-family: Montserrat;
     font-style: normal;
@@ -649,7 +657,8 @@ input[type=submit]:hover {
   }
 .buttons {
     display: flex;
-    margin: 20px 0px 350px;
+    margin-top: 20px;
+    /*margin: 20px 0px 350px;*/
     justify-content: space-around;
   }
 .button1 {
